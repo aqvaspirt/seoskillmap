@@ -5,10 +5,11 @@
 Я собрал в одном репозитори всё, как придти от Junior SEO к **HEAD**. Данная система легко масштабируется на другие профессии: product manager, project manager, developers и другие. Она вам точно нужна, если команда более 10 человек, включая seo, разработчиков и так далее. Если у вас маленькая команда -> придется сильно адаптировать под свои реалии.
 
 ## 🧭 Навигация
-- [Грейды]()
-- [Performance Review & YOUR Personal Development Plan]()
-- [[Для лидов] Cook book "Как проводить PR"]()
-- [Методичка для  оценки]()
+- [Грейды](https://github.com/aqvaspirt/seoskillmap/blob/main/Grades)
+- [Performance Review & YOUR Personal Development Plan](https://github.com/aqvaspirt/seoskillmap/blob/main/Personal%20development%20plan)
+- [[Для лидов] Cook book "Как проводить PR"](https://github.com/aqvaspirt/seoskillmap/blob/main/CookBook)
+- [Методичка для  оценки](https://github.com/aqvaspirt/seoskillmap/blob/main/Assessment%20guide)
+- [Компетенции](https://github.com/aqvaspirt/seoskillmap/blob/main/Competence)
 
 
 ## 🤖 How-to-use
