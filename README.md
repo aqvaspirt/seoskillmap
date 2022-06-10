@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/49196731/173126829-a60c8ed8-526b-4049-ae88-b9e9a4b5d3ce.png)
+![image](https://github.com/aqvaspirt/seoskillmap/blob/main/images/cover.png)
 
 
 # 🗺 Skills map SEO
