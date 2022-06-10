@@ -3,6 +3,8 @@
 
 [🔗 Альтернативная версия в Notion](https://www.notion.so/aqvaspirt/a3730d4f463548cb836ac43129f6f153).
 
+![grades](https://github.com/aqvaspirt/seoskillmap/blob/main/images/grades.png)
+
 
 
 ## 1 Ранг: 🐣 Junior
